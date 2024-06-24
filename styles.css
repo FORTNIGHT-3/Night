@@ -81,3 +81,7 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+
+right{
+    float: right;
+}
