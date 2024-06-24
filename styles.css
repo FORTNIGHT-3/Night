@@ -4,12 +4,12 @@ body {
     padding: 0;
 }
 
-header {
+.header {
     background-color: #333;
     color: white;
     padding: 1em;
     text-align: center;
-    position: top;
+    position: center;
 }
 
 nav ul {
