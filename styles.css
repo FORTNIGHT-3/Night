@@ -11,6 +11,7 @@ body {
     text-align: center;
     position: fixed;
     width: 100%;
+    align: front;
 }
 
 nav ul {
