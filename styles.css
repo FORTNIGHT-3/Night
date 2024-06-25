@@ -9,7 +9,8 @@ body {
     color: white;
     padding: 1em;
     text-align: center;
-    position: center;
+    position: fixed;
+    height: 100%;
 }
 
 nav ul {
