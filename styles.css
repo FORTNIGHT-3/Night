@@ -80,7 +80,9 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
-
+.p1{
+    with: 3cm;
+}
 right{
     float: right;
     margin-left: 4cm;
